@@ -5,7 +5,6 @@ import DarkIcon from 'shared/assets/icons/theme-dark.svg';
 import AquaIcon from 'shared/assets/icons/theme-aqua.svg';
 import { Button, ThemeButton } from 'shared/ui/Button/Button';
 
-
 interface ThemeSwitcherProps {
     className?: string;
 }
